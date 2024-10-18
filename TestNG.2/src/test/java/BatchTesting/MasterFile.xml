@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<suite name="Mastersuite">
+<suite-files>
+<suite-file 
+path="C:\Users\kumar\eclipse-workspace\TestNG\src\test\java\BatchTesting\FunctionalTesting.xml"></suite-file>
+<suite-file path="C:\Users\kumar\eclipse-workspace\TestNG\src\test\java\BatchTesting\SanityTesting.xml"></suite-file>
+</suite-files>
+</suite>

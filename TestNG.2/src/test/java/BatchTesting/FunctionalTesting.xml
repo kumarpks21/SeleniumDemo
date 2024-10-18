@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<suite name="FunctionalTestingSuite">
+<test name="Functional Testing">
+<classes>
+<class name="BatchTesting.ProductPageTest"></class>
+<class name="BatchTesting.PaymentTest"></class>
+</classes>
+</test>
+</suite>
