@@ -16,5 +16,6 @@ public class Class_One {
         // Navigate to Google
         driver.get("https://www.facebook.com");
        driver.manage().window().maximize();
+       System.out.println("Hello world");
     }
 }
